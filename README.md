@@ -1,4 +1,4 @@
-📊 Google Data Analytics - Coursera
+<h1>📊 Google Data Analytics - Coursera</h1>
 
 Bem-vindo ao meu repositório de estudos do curso Google Data Analytics, oferecido pela Coursera! Aqui compartilho anotações, exercícios, projetos e insights adquiridos ao longo do curso.
 
@@ -17,8 +17,6 @@ Técnicas de visualização e comunicação de insights
 📂 Estrutura do Repositório
 
 O repositório está organizado da seguinte forma:
-
-/
 ├── Modulo 1 - Fundamentos da Análise de Dados
 ├── Modulo 2 - Perguntar e Preparar os Dados
 ├── Modulo 3 - Processamento e Limpeza dos Dados
