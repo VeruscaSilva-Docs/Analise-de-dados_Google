@@ -17,7 +17,8 @@ Técnicas de visualização e comunicação de insights
 📂 Estrutura do Repositório
 
 O repositório está organizado da seguinte forma:
-<p>
+
+<p><br>
 ├── Modulo 1 - Fundamentos da Análise de Dados
 ├── Modulo 2 - Perguntar e Preparar os Dados
 ├── Modulo 3 - Processamento e Limpeza dos Dados
@@ -25,7 +26,7 @@ O repositório está organizado da seguinte forma:
 ├── Modulo 5 - Visualização e Storytelling
 ├── Modulo 6 - Projeto Final
 └── Recursos Extras
-</p>
+</p><br>
 Cada módulo contém materiais de estudo, códigos e insights relevantes.
 
 🛠️ Ferramentas Utilizadas
